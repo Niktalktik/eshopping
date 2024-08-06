@@ -1,6 +1,12 @@
 # Paradise Nursery Shopping Application
 
+Welcome to the Plant Shop
+
+
 This project is a shopping cart application for an online plant shop which offers a variety of house plants.
+It runs over a server and local
+https://gorgeous-bavarois-abd7de.netlify.app/
+[http://localhost:3000](http://localhost:3000)
 
 ## Available Scripts
 
