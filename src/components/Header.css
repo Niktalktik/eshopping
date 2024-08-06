@@ -1,0 +1,16 @@
+.header {
+  background-color: #4CAF50;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.header a:hover {
+  text-decoration: underline;
+}

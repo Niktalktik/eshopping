@@ -1,0 +1,12 @@
+.cart {
+  padding: 20px;
+}
+
+.cart h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.cart p {
+  font-size: 1.2em;
+}
